@@ -1,0 +1,7 @@
+Full Name (string): Hello World
+Age (int): 21
+Population (long long): 8000000000
+Grade (char): A
+Height (float): 5.8
+Weight (double): 67.45
+Is Student (bool): true

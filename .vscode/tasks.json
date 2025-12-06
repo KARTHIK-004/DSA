@@ -1,0 +1,36 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "C++ compile (ucrt64, main.cpp)",
+      "type": "shell",
+      "command": "C:/msys64/ucrt64/bin/g++.exe",
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "args": ["-std=c++17", "-Wall", "main.cpp", "-o", "main.exe"],
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "C++ compile and run (ucrt64, main.cpp)",
+      "type": "shell",
+      "command": "cmd.exe",
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "args": [
+        "/c",
+        "C:/msys64/ucrt64/bin/g++.exe -std=c++17 -Wall main.cpp -o main.exe && main.exe < input.txt > output.txt"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}

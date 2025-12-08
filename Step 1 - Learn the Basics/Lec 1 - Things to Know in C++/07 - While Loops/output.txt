@@ -1,0 +1,6 @@
+WHILE loop output:
+While loop did NOT run because condition was false.
+
+DO-WHILE loop output:
+10 
+Do-while loop ran ONCE even though condition was false.

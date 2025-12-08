@@ -1,0 +1,21 @@
+Enter value of n: 
+O(1) - Constant Time Example:
+Sum = 30
+
+O(n) - Linear Time Example:
+1 2 3 4 
+
+O(n^2) - Quadratic Time Example:
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+
+O(log n) - Logarithmic Time Example:
+1 2 
+
+O(n log n) - Linearithmic Time Example:
+(0,1) (0,2) 
+(1,1) (1,2) 
+(2,1) (2,2) 
+(3,1) (3,2) 

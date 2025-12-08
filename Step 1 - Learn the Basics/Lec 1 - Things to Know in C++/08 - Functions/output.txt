@@ -1,0 +1,9 @@
+Enter a number for parameterized function: You entered the number: 50
+
+Enter a value for Pass by Value: Before passByValue(), x = 10
+Inside passByValue(), a = 100
+After passByValue(), x = 10 (unchanged)
+
+Enter a value for Pass by Reference: Before passByReference(), y = 20
+Inside passByReference(), b = 200
+After passByReference(), y = 200 (changed)

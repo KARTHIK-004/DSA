@@ -1,0 +1,10 @@
+Max-Heap top: 20
+After pop, new top: 15
+Size: 3
+Empty? No
+
+Min-Heap top: 5
+After pop, new top: 10
+
+Pair PQ top: (3, 40)
+After pop, new top pair: (3, 10)

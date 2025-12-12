@@ -1,0 +1,12 @@
+Front after pushes: 10
+Back after pushes: 30
+Front after pop: 20
+Queue size: 2
+Is queue empty? No
+
+String queue front: Hello
+String queue back: Earth
+After pop, new front: World
+
+Queue of pairs front: 1, 2
+After pop, new front pair: 3, 4

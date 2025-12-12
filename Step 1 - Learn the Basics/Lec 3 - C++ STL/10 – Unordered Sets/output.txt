@@ -1,0 +1,14 @@
+Unordered Set contents: 20 5 10 
+
+10 found in unordered set
+100 not found
+
+Does 20 exist? count = 1
+Does 50 exist? count = 0
+
+After erase(5): 20 10 
+After erase(iterator to 20): 10 
+
+Size: 1
+Empty? No
+After clear(): Empty

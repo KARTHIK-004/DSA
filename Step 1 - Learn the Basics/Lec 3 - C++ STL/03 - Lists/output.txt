@@ -1,0 +1,10 @@
+Initial list: 10 20 30 
+After push_front & push_back: 5 10 20 30 40 
+After pop_front & pop_back: 10 20 30 
+Front element: 10
+Back element: 30
+After remove(15): 10 20 30 
+After unique(): 10 20 30 10 
+After sort(): 10 20 30 40 50 
+After reverse(): 50 40 30 20 10 
+After clear(), empty(): List is empty

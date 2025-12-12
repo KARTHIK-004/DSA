@@ -1,0 +1,35 @@
+Initial v (index loop): 10 20 12 23 
+Print using range-for (auto): 10 20 12 23 
+Print using iterator (begin->end): 10 20 12 23 
+Print using reverse iterator (rbegin->rend): 23 12 20 10 
+
+After erase(v.begin()+1): 10 12 23 
+After erase(v.begin()+2, v.begin()+4): 10 20 35 
+
+v_ins start: 100 100 
+After insert(v_ins.begin(), 300): 300 100 100 
+After insert(... +1, 2, 10): 300 10 10 100 100 
+After inserting copyVec at begin: 50 50 300 10 10 100 100 
+
+v_ins size before pop_back: 7
+After pop_back: 50 50 300 10 10 100 
+Is v_ins empty()? no
+
+v3 before erase: 10 20 30 40 50 
+v3 after erase at index 2: 10 20 40 50 
+
+vA: 1 2 3 
+vB (copy constructor): 1 2 3 
+vC (assignment): 1 2 3 
+
+Before swap v1: 10 20   v2: 30 40 
+After swap v1: 30 40   v2: 10 20 
+After clear, v2.empty()? yes
+
+Vector of pairs:
+1, 2
+3, 4
+5, 6
+
+Access vp[1].second = 4
+

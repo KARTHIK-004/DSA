@@ -1,0 +1,13 @@
+Initial deque: 10 20 30 
+After push_front & push_back: 5 10 20 30 40 
+After pop_front & pop_back: 10 20 30 
+Front element: 10
+Back element: 30
+Element at index 1 (dq[1]): 20
+After inserting 15 at index 1: 10 15 20 30 
+After inserting 100,100,100 at front: 100 100 100 10 15 20 30 
+After erase at index 2: 100 100 10 15 20 30 
+After erase first 2 elements: 10 15 20 30 
+Print using iterator: 10 15 20 30 
+dq.size(): 4
+dq.empty(): true

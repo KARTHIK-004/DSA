@@ -1,0 +1,10 @@
+Stack top after pushes: 30
+Stack top after pop: 20
+Stack size: 2
+Is stack empty? No
+
+String stack top: Earth
+After pop, new top: World
+
+Stack of pairs top: 3, 4
+After pop, new top pair: 1, 2

@@ -1,0 +1,18 @@
+Set after inserts (sorted & unique): 5 10 20 
+
+10 found in set
+100 not found
+
+After erase(5): 10 20 
+After erase(iterator to 20): 10 
+After erase range (<15 removed): 15 25 
+
+Does 15 exist? (count): 1
+Does 100 exist? (count): 0
+
+lower_bound(25): 30
+upper_bound(30): 40
+
+Set size: 5
+Is set empty? No
+After clear(): Set is empty

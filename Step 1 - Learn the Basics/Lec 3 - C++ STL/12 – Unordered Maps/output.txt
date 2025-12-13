@@ -1,0 +1,29 @@
+Unordered Map contents (random order):
+4 -> Four
+2 -> Two
+3 -> Three
+1 -> One
+
+ump[1] = One
+ump[10] (auto-created) = ""
+
+Key 3 found with value: Three
+Key 99 not found
+
+Does key 2 exist? count = 1
+Does key 50 exist? count = 0
+
+After erase(4):
+10 -> 
+2 -> Two
+3 -> Three
+1 -> One
+
+After erase(iterator):
+2 -> Two
+3 -> Three
+1 -> One
+
+Size: 3
+Empty? No
+After clear(): Empty

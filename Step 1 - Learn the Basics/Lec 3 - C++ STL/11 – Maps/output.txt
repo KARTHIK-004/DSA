@@ -1,0 +1,43 @@
+Map contents (sorted keys):
+1 -> 100
+2 -> 200
+3 -> 300
+4 -> 400
+
+mp[1] = 100
+mp[10] (created automatically) = 0
+
+Key 3 found with value 300
+Key 99 not found
+
+Does key 2 exist? count = 1
+Does key 50 exist? count = 0
+
+After erase(4):
+1 -> 100
+2 -> 200
+3 -> 300
+10 -> 0
+
+After erase(iterator to first element):
+2 -> 200
+3 -> 300
+10 -> 0
+
+Map before erase range:
+1 -> 10
+2 -> 20
+3 -> 30
+4 -> 40
+5 -> 50
+
+After erase range (<4 removed):
+4 -> 40
+5 -> 50
+
+lower_bound(15): key = 20
+upper_bound(20): key = 30
+
+t.size(): 3
+t.empty(): No
+After clear(): Empty

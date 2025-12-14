@@ -1,0 +1,2 @@
+Enter a number: 
+Number of digits = 2

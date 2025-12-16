@@ -1,0 +1,3 @@
+Enter a number: 
+64 is a perfect square (sqrt = 8)
+

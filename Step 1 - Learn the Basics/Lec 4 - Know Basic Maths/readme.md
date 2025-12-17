@@ -365,18 +365,3 @@ This lecture covers essential mathematical operations that form the building blo
 - Always consider edge cases: 0, 1, negative numbers
 
 ---
-
-## 📂 **Folder Structure**
-
-Each problem folder contains:
-
-- `main.cpp` - Complete C++ implementation
-- `input.txt` - Sample test cases
-- `output.txt` - Expected output
-- `readme.md` - Detailed explanation, multiple methods, complexity analysis
-
----
-
-**Happy Learning! 🎓**
-
-Master these basic math concepts and you'll have a solid foundation for advanced algorithms and problem-solving!

@@ -1,0 +1,23 @@
+=== Array-Based Hashing ===
+Hash Table (Index -> Frequency):
+1 -> 2
+2 -> 2
+3 -> 1
+
+=== Map-Based Hashing (Ordered) ===
+Hash Map (Key -> Frequency):
+1 -> 2
+2 -> 2
+3 -> 1
+
+=== Unordered Map-Based Hashing (Faster) ===
+Hash Map (Key -> Frequency):
+1 -> 2
+2 -> 2
+3 -> 1
+
+=== Query Frequencies ===
+Frequency of 1 = 2
+Frequency of 2 = 2
+Frequency of 3 = 1
+

@@ -1,0 +1,21 @@
+=== Using Unordered Map ===
+Element -> Frequency
+10 -> 4
+5 -> 3
+15 -> 2
+20 -> 1
+
+=== Using Map ===
+Element -> Frequency (Sorted)
+5 -> 3
+10 -> 4
+15 -> 2
+20 -> 1
+
+=== Using Array ===
+Element -> Frequency (Array Method)
+5 -> 3
+10 -> 4
+15 -> 2
+20 -> 1
+

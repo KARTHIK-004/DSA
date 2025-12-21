@@ -1,0 +1,9 @@
+Frequency Map:
+10 -> 4
+5 -> 3
+15 -> 2
+20 -> 1
+
+Highest Frequency Element: 10 (appears 4 times)
+Lowest Frequency Element: 20 (appears 1 time)
+
